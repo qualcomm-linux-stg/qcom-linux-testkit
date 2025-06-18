@@ -10,7 +10,8 @@ These scripts focus on:
 - Core Linux kernel functionality validation  
 - Robust error handling and dynamic environment detection  
 - Easy extension for continuous integration (CI) frameworks  
-- Designed to be run directly on target hardware  
+- Designed to be run directly on target hardware
+- Testing demo
 
 ---
 
