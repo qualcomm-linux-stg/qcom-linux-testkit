@@ -8,7 +8,7 @@ on:
 
 jobs:
   checker:
-    uses: qualcomm-linux/qli-actions/.github/workflows/multi-checker.yml@main
+    uses: qualcomm/qcom-actions/.github/workflows/multi-checker.yml@v1.0.0
     with:
         repolinter: true # default: true
         semgrep: true # default: true
