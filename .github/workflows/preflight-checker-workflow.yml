@@ -11,7 +11,7 @@ permissions:
 
 jobs:
   checker:
-    uses: qualcomm-linux/qli-actions/.github/workflows/multi-checker.yml@main
+    uses: qualcomm-linux/qli-actions/.github/workflows/multi-checker.yml@njjetha
     with:
         repolinter: true # default: true
         semgrep: true # default: true
