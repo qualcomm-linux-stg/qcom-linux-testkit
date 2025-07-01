@@ -110,7 +110,6 @@ These tests can be used as CI jobs in:
 ## License
 
 ## EOF_TESTING
-
 ```
 Copyright (c) Qualcomm Technologies, Inc. and/or its subsidiaries.  
 SPDX-License-Identifier: BSD-3-Clause-Clear
